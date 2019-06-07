@@ -2,6 +2,9 @@
 
 > 一个Blog的后端和前端
 
+
+![qq](qq.jpg)
+
 ## [Django-Rest-Blog](https://github.com/DisasterMeng/Django-Rest-Blog) 后端
     sqlite3
     django 
@@ -12,4 +15,4 @@
     
 ## Example
 
-  - [素笺的Blog](http://sujian.yandingblog.cn)
+  - [素笺的Blog](http://white-letter.xyz)
